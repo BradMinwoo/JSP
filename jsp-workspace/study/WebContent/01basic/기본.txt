@@ -1,0 +1,10 @@
+ HTTP 
+ request, response : header +body
+ 
+ GET/POST
+ GET : 파라미터가 URL뒤에 .jsp?param1=value1&param2=value2
+ POST : 파라미터가 requestqkeldksdp........
+ 
+ GET : form태그에서 method가 GET인 거, a 태그, 브라우저에 직접 url 작성 
+ POST : form태그에서 method가 POST인 거
+
